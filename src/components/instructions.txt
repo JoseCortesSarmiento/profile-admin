@@ -1,0 +1,1 @@
+In this folder we are going to create the components and then they will be imported to Appjs
